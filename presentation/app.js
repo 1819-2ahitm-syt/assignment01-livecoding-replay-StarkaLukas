@@ -1,3 +1,6 @@
+//Lukas Starka
+
+
 let hallo = function(who) {
     console.log("Hallo " + who())
 };
