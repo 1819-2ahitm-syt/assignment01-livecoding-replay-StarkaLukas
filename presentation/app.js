@@ -1,4 +1,4 @@
-//Lukas Starka
+//Lukas Starka 2AHITM
 
 
 let hallo = function(who) {
