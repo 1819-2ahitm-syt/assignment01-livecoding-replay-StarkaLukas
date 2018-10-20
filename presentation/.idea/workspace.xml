@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a205188-3028-4dd4-9aa4-a548890635ef" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../presentation3/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../presentation3/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../presentation3/app2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../presentation3/app3.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../presentation2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../presentation2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../presentation3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../presentation3/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -22,7 +17,7 @@
     <session id="-516979094">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.9" value="1" />
@@ -143,7 +138,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="963" y="0" width="964" height="1047" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24946004" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
