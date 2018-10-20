@@ -1,6 +1,5 @@
 //Lukas Starka 2AHITM
 
-
 let hallo = function(who) {
     console.log("Hallo " + who())
 };
